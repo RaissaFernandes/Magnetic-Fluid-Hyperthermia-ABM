@@ -6,7 +6,7 @@ This repository contains an agent-based simulation model developed to investigat
 
 ## **Context**
 
-Magnetic Hyperthermia is a therapy in which superparamagnetic nanoparticles are administered to the tumor and heated using an alternating magnetic field. The technique leverages the higher temperature sensitivity of neoplastic cells compared to healthy cells, aiming to induce necrosis in the neoplastic tissue without damaging the surrounding healthy tissue.
+MFH is a therapy in which superparamagnetic nanoparticles are administered to the tumor and heated using an alternating magnetic field. The technique leverages the higher temperature sensitivity of neoplastic cells compared to healthy cells, aiming to induce necrosis in the neoplastic tissue without damaging the surrounding healthy tissue.
 
 
 ## **Model Objective**
