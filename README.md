@@ -1,6 +1,6 @@
 # Magnetic-Fluid-Hyperthermia
 
-This repository contains an agent-based simulation model developed to investigate thermal energy diffusion in tissues subjected to Magnetic Hyperthermia (MFH) treatment for cancer, specifically glioblastoma multiforme (GBM). The model was developed as part of a master's thesis in the field of oncology.
+This repository contains an agent-based simulation model developed to investigate thermal energy diffusion in tissues subjected to Magnetic Hyperthermia (MFH) treatment for cancer, specifically glioblastoma multiforme (GBM). The model was developed as part of a master's thesis in the field of Physics.
 
 
 
