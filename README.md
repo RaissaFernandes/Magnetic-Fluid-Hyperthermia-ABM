@@ -43,7 +43,7 @@ Please note that running the model with the HTML file has some limitations when 
 
 Contributions to the improvement and enhancement of this model are welcome. If you wish to contribute, please feel free to create a pull request with your modifications. Be sure to provide a clear description of the contribution's objective and the changes made.
 
-## **Limitations and Disclaimer**
+## **Limitations**
 
 It is important to note that this simulation model has its limitations and represents a simplified approach to biological reality. It was developed for academic and research purposes, and its application in clinical settings requires additional validation.
 
