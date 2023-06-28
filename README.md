@@ -47,6 +47,15 @@ Contributions to the improvement and enhancement of this model are welcome. If y
 
 It is important to note that this simulation model has its limitations and represents a simplified approach to biological reality. It was developed for academic and research purposes, and its application in clinical settings requires additional validation.
 
+## **References**
+
+A more detailed description of the model's context, as well as the presentation of its methodology and data analysis, is provided in the following article:
+
+R.S. Fernandes, J.G.V. Miranda, A computational approach to simulate magnetic fluid hyperthermia in heterogeneous media. 
+Article submitted for publication.
+
+Please note that the article is currently under review and has not been published yet. In case of any updates regarding the publication status of the article, it will be updated here.
+
 ## **Contact**
 
 For any questions or further discussion about the model, please contact Raíssa Fernandes via raissa_sf93@hotmail.com
