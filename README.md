@@ -47,6 +47,10 @@ Contributions to the improvement and enhancement of this model are welcome. If y
 
 It is important to note that this simulation model has its limitations and represents a simplified approach to biological reality. It was developed for academic and research purposes, and its application in clinical settings requires additional validation.
 
+## **Citation**
+
+If you use this model in your research work, please cite it with the following DOI: [![DOI](https://zenodo.org/badge/656805768.svg)](https://zenodo.org/badge/latestdoi/656805768)
+
 ## **References**
 
 A more detailed description of the model's context, as well as the presentation of its methodology and data analysis, is provided in the following article:
